@@ -1,0 +1,339 @@
+.service-01 {
+    background: #f8f8f8;
+    padding: 117px 0 109px
+}
+
+.service-02 {
+    background: #f8f8f8;
+    padding: 111px 0 0
+}
+
+.service-03 {
+    background: #0f0f0f;
+    padding: 115px 0 108px
+}
+
+.serviceSentionInAboutPage {
+    padding: 108px 0 109px
+}
+
+.serviceSentionInPage {
+    background: #f8f8f8;
+    padding: 0 0 109px
+}
+
+.serviceSentionInPage02 {
+    background: #f8f8f8;
+    padding: 0 0 108px
+}
+
+.serviceSentionInPage .single-service-02 {
+    margin: 0 0 30px
+}
+
+.serviceSentionInPage .section-note {
+    margin: 32px 0 0
+}
+
+.serviceSentionInPage02 .section-note {
+    margin-top: 43px
+}
+
+.serviceSectionInServiceDetails {
+    background: #f8f8f8;
+    padding: 0 0 111px
+}
+
+.about-01 {
+    background: #f8f8f8;
+    padding: 0 0 119px
+}
+
+.about-02 {
+    background: #f8f8f8;
+    padding: 120px 0 0
+}
+
+.about-03 {
+    background: #141414;
+    padding: 0
+}
+
+.about-02 .sub-heading {
+    justify-content: center
+}
+
+.about-02 .sub-heading-des {
+    padding: 0 230px;
+    margin: 24px 0 0
+}
+
+.projectSection-01 {
+    padding: 116px 0 109px
+}
+
+.projectSection-02 {
+    background: #f8f8f8;
+    padding: 105px 0 119px;
+    overflow: hidden
+}
+
+.projectSection-03 {
+    background: #141414;
+    padding: 115px 0 89px
+}
+
+.projectSecPJTPage {
+    background: #f8f8f8;
+    padding: 41px 0 108px
+}
+
+.projectSecPJTPage02 {
+    overflow: hidden;
+    background: #f8f8f8;
+    padding: 41px 0 90px
+}
+
+.projectSecPJTPage03 {
+    background: #f8f8f8;
+    padding: 41px 0 120px
+}
+
+.projectSecPJTPage04 {
+    background: #f8f8f8;
+    padding: 0 55px 39px
+}
+
+.projectDetailsInPJTD01 {
+    background: #f8f8f8;
+    padding: 104px 0 108px
+}
+
+.projectDetailsInPJTD02 {
+    background: #f8f8f8;
+    padding: 104px 0 108px
+}
+
+.relatedPosts {
+    background: #f8f8f8;
+    padding: 0 0 120px
+}
+
+.discountPart {
+    margin-top: 119px
+}
+
+.team-01 {
+    background: #f8f8f8;
+    padding: 116px 0 120px
+}
+
+.team-03 {
+    background: #141414;
+    padding: 116px 0 119px
+}
+
+.teamSentionInPage {
+    background: #f8f8f8;
+    padding: 120px 0 108px
+}
+
+.teamSinglePage {
+    position: relative;
+    padding: 120px 0 91px
+}
+
+.video-01 {
+    background: url('../images/bg/3.jpg') no-repeat fixed center center/cover;
+    padding: 90px 0 198px
+}
+
+.video-02 {
+    background: url('../images/bg/7.jpg') no-repeat center center/cover;
+    padding: 186px 0 198px
+}
+
+.video-03 {
+    background: url('../images/bg/7.jpg') no-repeat center center/cover;
+    padding: 186px 0 198px
+}
+
+.testimonials-01 {
+    padding: 119px 0
+}
+
+.testimonials-02 {
+    background: #f8f8f8;
+    padding: 116px 0 119px
+}
+
+.testimonials-03 {
+    background: #0f0f0f;
+    padding: 118px 0
+}
+
+.testimonialsInPage {
+    background: #f8f8f8;
+    padding: 120px 0 95px
+}
+
+.testimonialsInPage .single-testimonial-02 {
+    margin: 0 0 40px
+}
+
+.testimonialsInPage .section-note {
+    margin: -43px 0 0
+}
+
+.teamSentionInPage .single-team {
+    margin: 0 0 30px
+}
+
+.teamSentionInPage .section-note {
+    margin-top: 32px
+}
+
+.blog-01 {
+    background: #f8f8f8;
+    padding: 116px 0 108px
+}
+
+.blog-02 {
+    padding: 115px 0 108px
+}
+
+.blog-03 {
+    background: #141414;
+    padding: 115px 0 108px
+}
+
+.blogSecFullWidth_01 {
+    background: #f8f8f8;
+    padding: 0 0 119px
+}
+
+.blogSecFullWidth_02 {
+    background: #f8f8f8;
+    padding: 0 0 119px
+}
+
+.blogSecRightSidebar_01 {
+    background: #f8f8f8;
+    padding: 0 0 119px
+}
+
+.blogSecRightSidebar_02 {
+    background: #f8f8f8;
+    padding: 0 0 119px
+}
+
+.blogSecLeftSidebar_01 {
+    background: #f8f8f8;
+    padding: 0 0 119px
+}
+
+.blogSecLeftSidebar_02 {
+    background: #f8f8f8;
+    padding: 0 0 119px
+}
+
+.blogSecFullWidth_01 .single-blog {
+    margin-bottom: 30px
+}
+
+.blogSecFullWidth_02 .single-blog-02 {
+    margin-bottom: 22px
+}
+
+.blogSecRightSidebar_01 .single-blog {
+    margin-bottom: 30px
+}
+
+.blogSecRightSidebar_02 .single-blog-02 {
+    margin-bottom: 30px
+}
+
+.blogSecLeftSidebar_01 .single-blog {
+    margin-bottom: 30px
+}
+
+.blogSecLeftSidebar_02 .single-blog-02 {
+    margin-bottom: 22px
+}
+
+.blog-02 .section-note {
+    margin-top: 54px
+}
+
+.blogSecFullWidth_01 .heaven_pagination {
+    margin-top: 40px
+}
+
+.blogSecFullWidth_02 .heaven_pagination {
+    margin-top: 40px
+}
+
+.blogSecRightSidebar_01 .heaven_pagination {
+    margin-top: 40px
+}
+
+.blogSecRightSidebar_02 .heaven_pagination {
+    margin-top: 40px
+}
+
+.blogSecLeftSidebar_01 .heaven_pagination {
+    margin-top: 40px
+}
+
+.blogSecLeftSidebar_02 .heaven_pagination {
+    margin-top: 40px
+}
+
+.blogSecInBlogDetails {
+    background: #f8f8f8;
+    padding: 117px 0 112px
+}
+
+.client-01 {
+    background: url(../images/bg/4.jpg) repeat left top;
+    padding: 110px 0 119px
+}
+
+.client-02 {
+    background: url(../images/bg/4.jpg) repeat left top;
+    padding: 117px 0 119px
+}
+
+.client-03 {
+    background: #141414;
+    padding: 148px 0 119px
+}
+
+.clientFirstRow .single-client {
+    line-height: 130px;
+    margin: 0 0 50px
+}
+
+.clientLastRow .single-client {
+    line-height: 77px
+}
+
+.single-client img {
+    display: inline-block
+}
+
+.shopDetailsPageSection {
+    padding: 120px 0
+}
+
+.contactMap {
+    background: #f8f8f8
+}
+
+.faqSections {
+    padding: 120px 0 90px
+}
+
+.pricingSections {
+    padding: 120px 0 90px
+}
